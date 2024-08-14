@@ -1,0 +1,43 @@
+img {
+    max-width: 100px;
+    max-height: 75px;
+}
+
+.foodPics{
+    display:block;
+    position:relative;
+    text-align:center;
+    margin-top:5px;
+}
+
+.descripHome{
+    display:block;
+    position:relative;
+    text-align: center;
+    margin-top: 10px;
+}
+
+ul{
+    list-style-position:inside;
+    list-style-type: circle;
+}
+
+li{
+    text-align:center;
+}
+
+body{
+    background-color:aquamarine;
+}
+
+p{
+    color:navy;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align:center;
+}
